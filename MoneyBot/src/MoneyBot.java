@@ -5,7 +5,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * Created by Deepanker on 9/6/2017.
+ * Created by IPECBOYZZ on 9/6/2017.
  */
 public class MoneyBot extends JFrame    {
 
